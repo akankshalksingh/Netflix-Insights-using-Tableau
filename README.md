@@ -20,8 +20,8 @@ The development of a comprehensive Tableau dashboard using a Kaggle dataset prov
 
 6. The filter section of the dashboard allows users to filter the data by type (movie or TV show) and select a specific title. Once selected, the filter displays additional information about the selected title, including the release year, genre, rating, date added, duration, and description of the movie or TV show.
 
-## Key Findings
 
+![Netflix Insights](https://user-images.githubusercontent.com/76152292/231400163-7d2f7432-e068-4fb7-9420-eec213fc6498.png)
 
 
 
